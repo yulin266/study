@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "ac4d353004bfed7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "27def1c1f66a9408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdd42b22c3befc11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Day02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3316928cafd6d5cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "672e623a9b1a345f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed7da17310fa284",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "01ee9ebfb1ae4e61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8775d6689435677c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "40525b8b2977b3e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc4c94c90bf4988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2da927368c6349",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Day01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Day01 的反向链接列表"
+            }
+          },
+          {
+            "id": "f7bcc35d835dbd30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Day01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Day01 的出链列表"
+            }
+          },
+          {
+            "id": "79dcfa40450de798",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6f41ecb8468c0303",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Day02.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Day02 的大纲"
+            }
+          },
+          {
+            "id": "a23450994bf3756f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "cdd42b22c3befc11",
+  "lastOpenFiles": [
+    "out/production/study-demo/coding/DAY02.class",
+    "coding/DAY02.java~",
+    "out/production/study-demo/coding/Day00.class",
+    "coding/Day00.java~",
+    "out/production/study-demo/图片/QQ20260726-153627.png",
+    "out/production/study-demo/图片/屏幕截图 2026-07-21 204949.png",
+    "out/production/study-demo/图片/QQ20260726-152941.png",
+    "out/production/study-demo/图片",
+    "out/production/study-demo/notes/Day02.md",
+    "out/production/study-demo/notes/Day01.md",
+    "out/production/study-demo/notes/Day000.md",
+    "out/production/study-demo/notes/Day00.md",
+    "out/production/study-demo/notes",
+    "out/production/study-demo/coding/chapter01",
+    "out/production/study-demo/coding",
+    "out/production/study-demo/90c8fc58b346c9c70fb71434ab7f4d2b.png",
+    "out/production/study-demo/87f64e0e983c96131c63ea3800f943b8.png",
+    "out/production/study-demo/6b05d1e044fac6f75c52ab00783292f4.png",
+    "out/production/study-demo/60001d66b3ca22fc5de4c2fbf9ee02b9.png",
+    "out/production/study-demo",
+    "out/production",
+    "out",
+    "90c8fc58b346c9c70fb71434ab7f4d2b.png",
+    "6b05d1e044fac6f75c52ab00783292f4.png",
+    "87f64e0e983c96131c63ea3800f943b8.png",
+    "notes/Day01.md",
+    "notes/Day02.md",
+    "notes/Day00.md",
+    "notes/Day02.md",
+    "day01.md",
+    "未命名.md",
+    "未命名 1.md"
+  ]
+}
