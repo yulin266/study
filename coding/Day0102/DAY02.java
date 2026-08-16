@@ -1,4 +1,4 @@
-package coding;
+package coding.Day0102;
 
 public class DAY02 {
     public static void main(String[] args) {

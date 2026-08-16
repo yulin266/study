@@ -1,5 +1,5 @@
 
-package coding;
+package coding.Day0102;
 import java.util.Scanner;
 
 public class Day00 {

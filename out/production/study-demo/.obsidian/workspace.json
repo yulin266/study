@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27def1c1f66a9408",
+        "id": "1a89f70ffeef87f9",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd42b22c3befc11",
+            "id": "9a3030da495818b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Day02.md",
+                "file": "notes/Day03 面向对象.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day02"
+              "title": "Day03 面向对象"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Day01.md",
+                "file": "notes/Day03 面向对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Day01 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Day01.md",
+                "file": "notes/Day03 面向对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Day01 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Day02.md",
+                "file": "notes/Day03 面向对象.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Day02 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -170,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,39 +185,40 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cdd42b22c3befc11",
+  "active": "9a3030da495818b1",
   "lastOpenFiles": [
-    "out/production/study-demo/coding/DAY02.class",
-    "coding/DAY02.java~",
-    "out/production/study-demo/coding/Day00.class",
-    "coding/Day00.java~",
-    "out/production/study-demo/图片/QQ20260726-153627.png",
-    "out/production/study-demo/图片/屏幕截图 2026-07-21 204949.png",
-    "out/production/study-demo/图片/QQ20260726-152941.png",
-    "out/production/study-demo/图片",
+    "out/production/study-demo/屏幕截图 2026-08-16 202140.png",
+    "out/production/study-demo/屏幕截图 2026-08-16 202145.png",
+    "屏幕截图 2026-08-16 202145.png",
+    "屏幕截图 2026-08-16 202140.png",
+    "coding/Day03/class7.java~",
+    "coding/Day03/class7.java",
+    "out/production/study-demo/coding/Day03/Child.class",
+    "out/production/study-demo/coding/Day03/Parent.class",
+    "out/production/study-demo/coding/Day03/class6.class",
+    "coding/Day03/class6.java~",
+    "out/production/study-demo/coding/Day03/B.class",
+    "out/production/study-demo/coding/Day03/class5.class",
+    "coding/Day03/class6.java",
+    "out/production/study-demo/coding/Day03/A.class",
+    "out/production/study-demo/b8a0254b02bdda579c91d61858ecf01f.png",
+    "out/production/study-demo/ae41ac6f87893ebedb0953503ccaf22f.png",
+    "out/production/study-demo/90b512eb7b44ba4f65cb02c5bb177dd9.png",
+    "out/production/study-demo/0abadf386b52adca64528bb6bba6fc1e.png",
+    "out/production/study-demo/06dbaaa116693a470eee96f370fb2216.png",
+    "notes/Day02.md",
+    "notes/Day03 面向对象.md",
+    "notes/Day01.md",
+    "未命名.md",
+    "out/production/study-demo/notes/Day00.md",
+    "0abadf386b52adca64528bb6bba6fc1e.png",
+    "b8a0254b02bdda579c91d61858ecf01f.png",
+    "out/production/study-demo/notes/Day03 面向对象.md",
     "out/production/study-demo/notes/Day02.md",
     "out/production/study-demo/notes/Day01.md",
     "out/production/study-demo/notes/Day000.md",
-    "out/production/study-demo/notes/Day00.md",
-    "out/production/study-demo/notes",
-    "out/production/study-demo/coding/chapter01",
-    "out/production/study-demo/coding",
-    "out/production/study-demo/90c8fc58b346c9c70fb71434ab7f4d2b.png",
-    "out/production/study-demo/87f64e0e983c96131c63ea3800f943b8.png",
-    "out/production/study-demo/6b05d1e044fac6f75c52ab00783292f4.png",
-    "out/production/study-demo/60001d66b3ca22fc5de4c2fbf9ee02b9.png",
-    "out/production/study-demo",
-    "out/production",
-    "out",
-    "90c8fc58b346c9c70fb71434ab7f4d2b.png",
-    "6b05d1e044fac6f75c52ab00783292f4.png",
-    "87f64e0e983c96131c63ea3800f943b8.png",
-    "notes/Day01.md",
-    "notes/Day02.md",
     "notes/Day00.md",
-    "notes/Day02.md",
     "day01.md",
-    "未命名.md",
     "未命名 1.md"
   ]
 }
