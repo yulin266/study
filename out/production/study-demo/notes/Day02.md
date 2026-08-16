@@ -1,7 +1,7 @@
 # 1顺序
 ![[QQ20260726-153627.png]]
 # 2内存
-![[87f64e0e983c96131c63ea3800f943b8.png]]
+![[assets/87f64e0e983c96131c63ea3800f943b8.png]]
 黄色和蓝色格子表示了位置和大小
 # 3.变量
 1.可以改变的向量存储
@@ -13,7 +13,7 @@
 2.字节（byte） 数据的最小存储单位
 1 byte = 8 bit
 
-![[60001d66b3ca22fc5de4c2fbf9ee02b9.png]]
+![[assets/60001d66b3ca22fc5de4c2fbf9ee02b9.png]]
 byte  8
 short 16
 int     32
@@ -22,11 +22,11 @@ float f = 1.0F
 double 
 小数点数据会默认为双精度
 ## 数据类型转换
-小的可以自动变成大的![[6b05d1e044fac6f75c52ab00783292f4.png|312]]
+小的可以自动变成大的![[assets/6b05d1e044fac6f75c52ab00783292f4.png|312]]
 大变小 
 `int i = （int）d；`
 # 5.运算符 
-![[90c8fc58b346c9c70fb71434ab7f4d2b.png]]
+![[assets/90c8fc58b346c9c70fb71434ab7f4d2b.png]]
 ## 1.0/2    1/2结果不一样
 ## 2.**最小的类型是int类型**
   `byte b1 = 10;`
