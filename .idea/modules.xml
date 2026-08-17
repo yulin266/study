@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bianma/bianma.iml" filepath="$PROJECT_DIR$/bianma/bianma.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/study-demo.iml" filepath="$PROJECT_DIR$/.idea/study-demo.iml" />
     </modules>
   </component>

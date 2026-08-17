@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a89f70ffeef87f9",
+        "id": "f579ffb5161cce17",
         "type": "tabs",
         "children": [
           {
-            "id": "9a3030da495818b1",
+            "id": "9e100344eb5df66d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Day03 面向对象.md",
+                "file": "notes/11.访问，内部类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day03 面向对象"
+              "title": "11.访问，内部类"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Day03 面向对象.md",
+                "file": "notes/11.访问，内部类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Day03 面向对象.md",
+                "file": "notes/11.访问，内部类.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,8 +167,7 @@
               "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,39 +184,47 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9a3030da495818b1",
+  "active": "9e100344eb5df66d",
   "lastOpenFiles": [
-    "assets/b8a0254b02bdda579c91d61858ecf01f.png",
-    "assets/屏幕截图 2026-08-16 202140.png",
-    "assets/60001d66b3ca22fc5de4c2fbf9ee02b9.png",
-    "assets/521f3fd54dd93f778788a31a4f847c13.png",
-    "notes/Day03 面向对象.md",
-    "assets",
-    "coding/Day03/class8.java",
+    "notes/10.包 静态.md",
+    "notes/9继承，多态，重重.md",
+    "notes/11.访问，内部类.md",
+    "out/production/study-demo/0abadf386b52adca64528bb6bba6fc1e.png",
+    "out/production/study-demo/6b05d1e044fac6f75c52ab00783292f4.png",
+    "out/production/study-demo/06dbaaa116693a470eee96f370fb2216.png",
+    "out/production/study-demo/87f64e0e983c96131c63ea3800f943b8.png",
+    "out/production/study-demo/90b512eb7b44ba4f65cb02c5bb177dd9.png",
+    "out/production/study-demo/521f3fd54dd93f778788a31a4f847c13.png",
+    "out/production/study-demo/图片/QQ20260726-152941.png",
+    "out/production/study-demo/图片/屏幕截图 2026-07-21 204949.png",
     "out/production/study-demo/notes/Day02.md",
     "out/production/study-demo/notes/Day01.md",
-    "out/production/study-demo/notes/Day00.md",
     "out/production/study-demo/notes/Day000.md",
-    "out/production/study-demo/b8a0254b02bdda579c91d61858ecf01f.png",
+    "out/production/study-demo/notes/Day03 面向对象.md",
+    "out/production/study-demo/图片/QQ20260726-153627.png",
+    "notes/Day03 面向对象.md",
+    "notes/8.方法 参数.md",
+    "notes/7.类 对象 属性.md",
+    "notes/3.顺序内存.md",
+    "notes/2.计算机语言.md",
+    "notes/4.数据 变量.md",
+    "notes/Day02.md",
+    "notes/6.流程控制.md",
+    "notes/5.运算符.md",
+    "notes/1.输入输出.md",
+    "assets/b8a0254b02bdda579c91d61858ecf01f.png",
+    "notes/Day000.md",
+    "assets",
+    "coding/Day03/class8.java",
+    "out/production/study-demo/notes/Day00.md",
     "out/production/study-demo/coding/Day03/Child2.class",
     "out/production/study-demo/coding/Day03/class7.class",
     "out/production/study-demo/coding/Day03/class7$Parent2.class",
-    "out/production/study-demo/屏幕截图 2026-08-16 202140.png",
-    "out/production/study-demo/屏幕截图 2026-08-16 202145.png",
-    "assets/屏幕截图 2026-08-16 202145.png",
     "coding/Day03/class7.java~",
     "coding/Day03/class7.java",
     "out/production/study-demo/coding/Day03/Child.class",
     "out/production/study-demo/coding/Day03/Parent.class",
     "out/production/study-demo/coding/Day03/class6.class",
-    "out/production/study-demo/ae41ac6f87893ebedb0953503ccaf22f.png",
-    "out/production/study-demo/90b512eb7b44ba4f65cb02c5bb177dd9.png",
-    "out/production/study-demo/0abadf386b52adca64528bb6bba6fc1e.png",
-    "notes/Day02.md",
-    "notes/Day01.md",
-    "未命名.md",
-    "out/production/study-demo/notes/Day03 面向对象.md",
-    "notes/Day00.md",
     "day01.md",
     "未命名 1.md"
   ]

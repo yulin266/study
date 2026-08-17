@@ -3,5 +3,6 @@
   "openBehavior": "",
   "attachmentFolderPath": "assets",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
