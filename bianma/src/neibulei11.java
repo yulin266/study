@@ -1,4 +1,4 @@
-public class neibulei {
+public class neibulei11 {
     public static void main(String[] args) {
         Out out = new Out();
         Out.In in = out.new In();

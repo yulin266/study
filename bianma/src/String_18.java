@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class String_18 {
+public class String_18 {
 }

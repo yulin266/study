@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class jihe_20_1 {
+public class jihe_21_1 {
     public static void main(String[] args) {
         ArrayList list = new ArrayList<>();
         list.add(1);

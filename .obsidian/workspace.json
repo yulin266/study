@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f579ffb5161cce17",
+        "id": "5a3ae4363b91da90",
         "type": "tabs",
         "children": [
           {
-            "id": "9e100344eb5df66d",
+            "id": "dd8af939543aa07b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/11.访问，内部类.md",
+                "file": "notes/notes/22 . 数据流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.访问，内部类"
+              "title": "22 . 数据流"
+            }
+          },
+          {
+            "id": "ec8a20b518957be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/notes/24.反射.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.反射"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/11.访问，内部类.md",
+                "file": "notes/notes/20，异常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Day03 面向对象.md",
+                "file": "notes/notes/20，异常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -144,9 +159,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/11.访问，内部类.md",
+                "file": "notes/notes/24.反射.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -167,7 +182,8 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,11 +200,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9e100344eb5df66d",
+  "active": "ec8a20b518957be5",
   "lastOpenFiles": [
-    "notes/10.包 静态.md",
-    "notes/9继承，多态，重重.md",
-    "notes/11.访问，内部类.md",
+    "notes/notes/22 . 数据流.md",
+    "notes/notes/24.反射.md",
+    "notes/notes/23.线程Thread.md",
+    "notes/notes/14.枚举enum  匿名类.md",
+    "out/production/bianma/MyThread.class",
+    "out/production/bianma/xiancheng23.class",
+    "out/production/bianma/xiancheng23$MyThread.class",
+    "out/production/bianma/shujuliu_22_2.class",
+    "bianma/src/xiancheng23.java~",
+    "bianma/src/xiancheng23.java",
+    "bianma/src/shujuliu_22_2.java~",
+    "bianma/Data/word_copy.txt",
+    "out/production/bianma/shujuliu_22.class",
+    "bianma/src/shujuliu_22_2.java",
+    "notes/notes/21._6迭代器，工具类.md",
+    "notes/notes/21_5.Queue接口，Map接口.md",
+    "notes/notes/21.集合.md",
+    "notes/notes/21_1集合—接口使用.md",
+    "notes/notes/21_2.集合—泛型.md",
+    "notes/notes/21_4.HashSet.md",
+    "notes/notes/20，异常.md",
+    "notes/notes/21_3_.比较器接口，对比.md",
+    "notes/notes/18.字符串.md",
+    "notes/notes/17.数组.md",
+    "notes/notes/16. Object类.md",
+    "notes/notes/13.接口.md",
+    "notes/notes/12.抽象.md",
+    "notes/notes/11.访问，内部类  final.md",
+    "notes/notes/19.其他类.md",
+    "notes/notes/6.流程控制.md",
+    "notes/notes/3.顺序内存.md",
+    "notes/notes/15.bean与作用域.md",
+    "notes/notes/9继承，多态，重重.md",
+    "notes/notes/10.包 静态.md",
+    "notes/notes/8.方法 参数.md",
+    "notes/notes/7.类 对象 属性.md",
     "out/production/study-demo/0abadf386b52adca64528bb6bba6fc1e.png",
     "out/production/study-demo/6b05d1e044fac6f75c52ab00783292f4.png",
     "out/production/study-demo/06dbaaa116693a470eee96f370fb2216.png",
@@ -197,35 +246,7 @@
     "out/production/study-demo/521f3fd54dd93f778788a31a4f847c13.png",
     "out/production/study-demo/图片/QQ20260726-152941.png",
     "out/production/study-demo/图片/屏幕截图 2026-07-21 204949.png",
-    "out/production/study-demo/notes/Day02.md",
-    "out/production/study-demo/notes/Day01.md",
-    "out/production/study-demo/notes/Day000.md",
-    "out/production/study-demo/notes/Day03 面向对象.md",
     "out/production/study-demo/图片/QQ20260726-153627.png",
-    "notes/Day03 面向对象.md",
-    "notes/8.方法 参数.md",
-    "notes/7.类 对象 属性.md",
-    "notes/3.顺序内存.md",
-    "notes/2.计算机语言.md",
-    "notes/4.数据 变量.md",
-    "notes/Day02.md",
-    "notes/6.流程控制.md",
-    "notes/5.运算符.md",
-    "notes/1.输入输出.md",
-    "assets/b8a0254b02bdda579c91d61858ecf01f.png",
-    "notes/Day000.md",
-    "assets",
-    "coding/Day03/class8.java",
-    "out/production/study-demo/notes/Day00.md",
-    "out/production/study-demo/coding/Day03/Child2.class",
-    "out/production/study-demo/coding/Day03/class7.class",
-    "out/production/study-demo/coding/Day03/class7$Parent2.class",
-    "coding/Day03/class7.java~",
-    "coding/Day03/class7.java",
-    "out/production/study-demo/coding/Day03/Child.class",
-    "out/production/study-demo/coding/Day03/Parent.class",
-    "out/production/study-demo/coding/Day03/class6.class",
-    "day01.md",
-    "未命名 1.md"
+    "assets/b8a0254b02bdda579c91d61858ecf01f.png"
   ]
 }
