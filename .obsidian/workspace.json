@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3ae4363b91da90",
+        "id": "8062819f83ff9dce",
         "type": "tabs",
         "children": [
           {
-            "id": "dd8af939543aa07b",
+            "id": "16ca5b1cc0860139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/notes/22 . 数据流.md",
+                "file": "aaaanotes/javaweb/Day2：Java Web 开发环境搭建与 Servlet 入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 . 数据流"
-            }
-          },
-          {
-            "id": "ec8a20b518957be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/notes/24.反射.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24.反射"
+              "title": "Day2：Java Web 开发环境搭建与 Servlet 入门"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/notes/24.反射.md",
+                "file": "aaaanotes/javaweb/Day2：Java Web 开发环境搭建与 Servlet 入门.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -200,44 +185,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ec8a20b518957be5",
+  "active": "16ca5b1cc0860139",
   "lastOpenFiles": [
-    "notes/notes/22 . 数据流.md",
-    "notes/notes/24.反射.md",
-    "notes/notes/23.线程Thread.md",
-    "notes/notes/14.枚举enum  匿名类.md",
-    "out/production/bianma/MyThread.class",
-    "out/production/bianma/xiancheng23.class",
-    "out/production/bianma/xiancheng23$MyThread.class",
-    "out/production/bianma/shujuliu_22_2.class",
-    "bianma/src/xiancheng23.java~",
-    "bianma/src/xiancheng23.java",
-    "bianma/src/shujuliu_22_2.java~",
-    "bianma/Data/word_copy.txt",
-    "out/production/bianma/shujuliu_22.class",
-    "bianma/src/shujuliu_22_2.java",
-    "notes/notes/21._6迭代器，工具类.md",
-    "notes/notes/21_5.Queue接口，Map接口.md",
-    "notes/notes/21.集合.md",
-    "notes/notes/21_1集合—接口使用.md",
-    "notes/notes/21_2.集合—泛型.md",
-    "notes/notes/21_4.HashSet.md",
-    "notes/notes/20，异常.md",
-    "notes/notes/21_3_.比较器接口，对比.md",
-    "notes/notes/18.字符串.md",
-    "notes/notes/17.数组.md",
-    "notes/notes/16. Object类.md",
-    "notes/notes/13.接口.md",
-    "notes/notes/12.抽象.md",
-    "notes/notes/11.访问，内部类  final.md",
-    "notes/notes/19.其他类.md",
-    "notes/notes/6.流程控制.md",
-    "notes/notes/3.顺序内存.md",
-    "notes/notes/15.bean与作用域.md",
-    "notes/notes/9继承，多态，重重.md",
-    "notes/notes/10.包 静态.md",
-    "notes/notes/8.方法 参数.md",
-    "notes/notes/7.类 对象 属性.md",
+    "aaaanotes/javaweb/Day1：HTTP 与 Web 基础学习文档.md",
+    "aaaanotes/javaweb/Day14：综合项目：博客系统（SSM 完整实战）.md",
+    "aaaanotes/javaweb/Day13：Spring + MyBatis 整合（SSM）.md",
+    "aaaanotes/javaweb/Day12：Spring MVC.md",
+    "aaaanotes/javaweb/Day11：Spring 核心（IoC、DI、AOP）.md",
+    "aaaanotes/javaweb/Day10：MyBatis 进阶.md",
+    "aaaanotes/javaweb/Day9：MyBatis 入门.md",
+    "aaaanotes/javaweb/Day8：Maven 进阶与项目分层架构.md",
+    "aaaanotes/javaweb/Day7：综合实战：用户管理系统.md",
+    "aaaanotes/javaweb/Day6：数据库基础（MySQL）.md",
+    "aaaanotes/javaweb/Day5：JDBC 基础.md",
+    "aaaanotes/javaweb/Day4：JSP 与 EL，JSTL.md",
+    "aaaanotes/javaweb/Day3：Servlet 进阶（转发、重定向、Cookie，Session、Filter、Listener）.md",
+    "aaaanotes/javaweb/Day2：Java Web 开发环境搭建与 Servlet 入门.md",
+    "aaaanotes/javaweb/Day 3：Servlet 进阶（转发、重定向、CookieSession、Filter、Listener）.md",
+    "aaaanotes/javaweb/Day 8：Maven 进阶与项目分层架构.md",
+    "aaaanotes/javaweb/Day 9：MyBatis 入门.md",
+    "aaaanotes/javaweb/未命名 5.md",
+    "aaaanotes/javaweb/Day 7：综合实战：用户管理系统.md",
+    "aaaanotes/javaweb/Day 6：数据库基础（MySQL）.md",
+    "aaaanotes/javaweb/Day 5：JDBC 基础.md",
+    "aaaanotes/javaweb/Day 4：JSP 与 EL，JSTL.md",
+    "aaaanotes/javaweb/未命名 4.md",
+    "aaaanotes/javaweb/未命名 3.md",
+    "aaaanotes/javaweb/未命名 2.md",
+    "aaaanotes/javaweb/未命名 1.md",
+    "untitled/target/untitled.war",
+    "untitled/target/maven-archiver/pom.properties",
+    "untitled/target/maven-archiver",
+    "untitled/target/untitled/WEB-INF/classes/com/example/servlet/HelloServlet.class",
+    "untitled/target/untitled/WEB-INF/classes/com/example/servlet",
+    "untitled/target/untitled/WEB-INF/classes/com/example",
+    "untitled/target/untitled/WEB-INF/classes/com",
+    "untitled/target/untitled/WEB-INF/web.xml",
+    "untitled/target/untitled/WEB-INF/classes",
+    "untitled/target/untitled/WEB-INF",
     "out/production/study-demo/0abadf386b52adca64528bb6bba6fc1e.png",
     "out/production/study-demo/6b05d1e044fac6f75c52ab00783292f4.png",
     "out/production/study-demo/06dbaaa116693a470eee96f370fb2216.png",
