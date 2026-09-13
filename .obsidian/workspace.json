@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/notes/20，异常.md",
+                "file": "aaaanotes/javaweb/Day2：Java Web 开发环境搭建与 Servlet 入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -168,11 +168,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +188,15 @@
   "active": "16ca5b1cc0860139",
   "lastOpenFiles": [
     "aaaanotes/javaweb/Day1：HTTP 与 Web 基础学习文档.md",
+    "aaaanotes/javaweb/Day2：Java Web 开发环境搭建与 Servlet 入门.md",
+    "web/src/test/java",
+    "web/src/test",
+    "web/src/main/resources",
+    "web/src/main/java",
+    "web/src/main",
+    "web/src",
+    "web/pom.xml",
+    "web",
     "aaaanotes/javaweb/Day14：综合项目：博客系统（SSM 完整实战）.md",
     "aaaanotes/javaweb/Day13：Spring + MyBatis 整合（SSM）.md",
     "aaaanotes/javaweb/Day12：Spring MVC.md",
@@ -200,7 +209,6 @@
     "aaaanotes/javaweb/Day5：JDBC 基础.md",
     "aaaanotes/javaweb/Day4：JSP 与 EL，JSTL.md",
     "aaaanotes/javaweb/Day3：Servlet 进阶（转发、重定向、Cookie，Session、Filter、Listener）.md",
-    "aaaanotes/javaweb/Day2：Java Web 开发环境搭建与 Servlet 入门.md",
     "aaaanotes/javaweb/Day 3：Servlet 进阶（转发、重定向、CookieSession、Filter、Listener）.md",
     "aaaanotes/javaweb/Day 8：Maven 进阶与项目分层架构.md",
     "aaaanotes/javaweb/Day 9：MyBatis 入门.md",
@@ -212,17 +220,8 @@
     "aaaanotes/javaweb/未命名 4.md",
     "aaaanotes/javaweb/未命名 3.md",
     "aaaanotes/javaweb/未命名 2.md",
-    "aaaanotes/javaweb/未命名 1.md",
     "untitled/target/untitled.war",
     "untitled/target/maven-archiver/pom.properties",
-    "untitled/target/maven-archiver",
-    "untitled/target/untitled/WEB-INF/classes/com/example/servlet/HelloServlet.class",
-    "untitled/target/untitled/WEB-INF/classes/com/example/servlet",
-    "untitled/target/untitled/WEB-INF/classes/com/example",
-    "untitled/target/untitled/WEB-INF/classes/com",
-    "untitled/target/untitled/WEB-INF/web.xml",
-    "untitled/target/untitled/WEB-INF/classes",
-    "untitled/target/untitled/WEB-INF",
     "out/production/study-demo/0abadf386b52adca64528bb6bba6fc1e.png",
     "out/production/study-demo/6b05d1e044fac6f75c52ab00783292f4.png",
     "out/production/study-demo/06dbaaa116693a470eee96f370fb2216.png",
