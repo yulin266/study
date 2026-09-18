@@ -1387,3 +1387,15 @@ Day3 将学习 **Servlet 进阶**：
 - Filter（过滤器）：编码过滤、登录校验
 - Listener（监听器）：在线人数统计
 - 完成一个简易登录会话管理完整示例
+
+# 我学到的
+1.放在 webapp 下面的 html、css、js、图片，是可以直接通过浏览器访问到的资源。
+2.
+1. **最高优先级（天天用）**：`src/main/java`（写逻辑）、`src/main/webapp`（写页面/配置）、`pom.xml`（加依赖）。
+    
+2. **次高优先级（需要配置）**：`src/main/resources`（放配置文件）。
+    
+3. **最低优先级（知道就行）**：`.idea`、`.smarttomcat`、`.iml`、`.gitignore`（这些是工具自动生成的，不用你操心）。
+    
+
+**一句话总结**：只需要在 `java` 里写代码，在 `webapp` 里写页面，在 `pom.xml` 里找依赖，在 `resources` 里写配置，其他的交给 IDEA 和 Maven 自动处理

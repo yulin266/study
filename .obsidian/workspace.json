@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aaaanotes/javaweb/Day2：Java Web 开发环境搭建与 Servlet 入门.md",
-                "mode": "source",
+                "file": "aaaanotes/javaweb/Day1：HTTP 与 Web 基础学习文档.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day2：Java Web 开发环境搭建与 Servlet 入门"
+              "title": "Day1：HTTP 与 Web 基础学习文档"
             }
           }
         ]
@@ -187,19 +187,21 @@
   },
   "active": "16ca5b1cc0860139",
   "lastOpenFiles": [
-    "aaaanotes/javaweb/Day3：Servlet 进阶（转发、重定向、Cookie，Session、Filter、Listener）.md",
-    "my-web-app/my-web-app.iml",
+    "apply/src/main/java/com/example/servlet/HelloServlet.java",
+    "apply/target/classes/com/example/servlet/HelloServlet.class",
+    "apply/src/main/java/com/example/servlet",
+    "apply/src/main/webapp/WEB-INF/web.xml",
+    "apply/target/classes/com/example/servlet",
+    "apply/src/main/java/com/example",
+    "apply/src/main/webapp/WEB-INF",
+    "apply/src/main/webapp/index.jsp",
+    "apply/target/classes/com/example",
+    "apply/src/main/java/com",
+    "apply/target/generated-sources/annotations",
     "aaaanotes/javaweb/Day2：Java Web 开发环境搭建与 Servlet 入门.md",
-    "my-web-app/pom.xml",
-    "my-web-app",
+    "temp_shot.png",
+    "aaaanotes/javaweb/Day3：Servlet 进阶（转发、重定向、Cookie，Session、Filter、Listener）.md",
     "aaaanotes/javaweb/Day1：HTTP 与 Web 基础学习文档.md",
-    "web/src/test/java",
-    "web/src/test",
-    "web/src/main/resources",
-    "web/src/main/java",
-    "web/src/main",
-    "web/src",
-    "web/pom.xml",
     "aaaanotes/javaweb/Day14：综合项目：博客系统（SSM 完整实战）.md",
     "aaaanotes/javaweb/Day13：Spring + MyBatis 整合（SSM）.md",
     "aaaanotes/javaweb/Day12：Spring MVC.md",
@@ -230,7 +232,6 @@
     "out/production/study-demo/521f3fd54dd93f778788a31a4f847c13.png",
     "out/production/study-demo/图片/QQ20260726-152941.png",
     "out/production/study-demo/图片/屏幕截图 2026-07-21 204949.png",
-    "out/production/study-demo/图片/QQ20260726-153627.png",
-    "assets/b8a0254b02bdda579c91d61858ecf01f.png"
+    "out/production/study-demo/图片/QQ20260726-153627.png"
   ]
 }
