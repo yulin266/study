@@ -21,11 +21,20 @@ public class HelloServlet extends HttpServlet {  // ④ 定义类：继承父类
     protected void doGet(HttpServletRequest req,  // ⑥ 干活：浏览器 GET 访问时，Tomcat 调它
                          HttpServletResponse resp)
             throws ServletException, IOException {
-        resp.setContentType("text/html;charset=UTF-8"); // ⑥-1 先定"返回格式+编码"，中文不乱码
+        req.setCharacterEncoding("UTF-8");
+
+        resp.setContentType("text/html;charset=UTF-8");
+        // 从小票读参数：访问 .../hello?name=小明 时能取到 "小明"
+        String name = req.getParameter("name");
+        if (name == null) {
+            name = "匿名顾客";
+        }
+// ⑥-1 先定"返回格式+编码"，中文不乱码
         PrintWriter out = resp.getWriter();              // ⑥-2 拿"笔"：往响应体里写文字
         out.println("<!DOCTYPE html>");                  // ⑥-3 以下 7 行 = 你写回的网页源码
         out.println("<html><head><title>Hello</title></head><body>");
         out.println("<h1>Hello, Servlet!</h1>");
+        out.println("<p>你好，" + name + "</p>");
         out.println("<p>当前时间：" + new Date() + "</p>");
         out.println("<p>请求方法：" + req.getMethod() + "</p>");
         out.println("<p>请求 URI：" + req.getRequestURI() + "</p>");

@@ -1,0 +1,14 @@
+### GET 查询全部用户
+GET http://localhost:8080/my-web-app/users
+
+### GET 查询单个用户id=5
+GET http://localhost:8080/my-web-app/users/5
+
+### POST 创建用户
+POST http://localhost:8080/my-web-app/users
+
+### PUT 更新id=2
+PUT http://localhost:8080/my-web-app/users/2
+
+### DELETE 删除id=3
+DELETE http://localhost:8080/my-web-app/users/3
